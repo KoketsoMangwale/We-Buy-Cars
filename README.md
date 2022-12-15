@@ -11,3 +11,6 @@ save it in a spreadsheet to save her browsing time.
 First, I tried to scrape the HTML data from the website using the Requests and BeautifulSoup libraries.
 But that led to a deadend because the site does not allow that. So now with a different approach, I will get the data 
 using their hidden API.
+
+
+![](usedCar.gif)
